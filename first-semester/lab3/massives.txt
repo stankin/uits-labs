@@ -1,0 +1,154 @@
+1) Заполнение и вывод одномерного массива
+#include <conio.h>
+#include <iostream.h>
+
+int main()
+{
+        //Объявлеине массива длинных целых
+        //из пяти элементов
+        long a[5];
+        int i;
+    
+        for(i=0;i<5;i++)
+        {
+                cout<<"a["<<i+1<<"]=?";
+                //Ввод элемента массива
+                cin>>a[i];
+        }
+    
+        cout<<endl<<endl;
+    
+        for(i=0;i<5;i++)
+        {
+                //вывод элемента массива
+                cout<<"a["<<i+1<<"]="<<a[i]<<endl;
+        }
+    
+        getch();
+    
+        return 0;
+}
+
+2) Инициализация массива при объявлении. И вывод строк на экран.
+
+#include <conio.h>
+#include <iostream.h>
+
+int main()
+{
+	//инициализация массива при объявлении
+	//терминальный нуль в конце делает массив букв строкой
+	char C[]={'a','b','c','d','\0'};
+
+	char D[]="Hello";
+
+	cout<<C;
+	cout<<endl;
+	cout<<D;
+	cout<<endl;
+
+        //Ввод строки
+        //Ввод больше символов чем места в массиве приводит к ошибке
+	cin>>C;
+	cout<<C;
+	
+	getch();
+
+	return 0;
+}
+
+3) Задание массива случайными числами и вывод его на экран.
+   Нахождение суммы элементов, больших 1
+#include <conio.h>
+#include <iostream.h>
+#include <stdlib.h>
+
+int main()
+{
+        //задание размера массива константой
+        const int size = 10;
+        double mass[size];
+
+        //установка генератора случайных чисел
+        randomize();   
+
+        for(int i=0;i<size;i++)
+        {
+        //Присвоение i-му элементу массива случайного значения
+        mass[i] = random(20)/10.0;
+        }
+
+        for(int i=0;i<size;i++)
+        {
+                cout<<"mass["<<i<<"]="<<mass[i]<<endl;
+        }
+
+
+        //нахождение суммы значений элементов больших единицы
+        double sum = 0;
+
+        for(int i=0;i<size;i++)
+        {
+                if(mass[i]>1)
+                {
+                        sum += mass[i];
+                }
+        }
+
+        cout<<"sum="<<sum<<endl;
+
+        getch();
+    
+        return 0;
+}
+
+4) Сортировка массива
+#include <conio.h>
+#include <iostream.h>
+#include <stdlib.h>
+
+int main()
+{
+
+	const int size = 10;
+	int mass[size];
+	
+	randomize();
+	
+	for(int i=0;i<size;i++)
+	{
+		mass[i] = rand()%100-50;
+	}
+
+	for(int i=0;i<size;i++)
+	{
+			cout<<"mass["<<i<<"]="<<mass[i]<<endl;
+	}
+
+        //Пузырьковая сортировка
+	for(int i=0;i<size;i++)
+	{
+		for(int j=0;j<size-i-1;j++)
+		{
+		        if(mass[j]>mass[j+1])
+		        {
+			        int t = mass[j];
+			        mass[j] = mass[j+1];
+			        mass[j+1] = t;
+                        }
+		}
+	}
+
+	cout<<"sorted:"<<endl;
+	for(int i=0;i<size;i++)
+	{
+		cout<<mass[i]<<endl;
+	}
+
+	getch();
+
+	return 0;
+}
+
+
+

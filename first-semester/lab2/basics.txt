@@ -1,0 +1,112 @@
+
+1) Переменные
+
+//Подключение библиотек
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+//Главная фунция программы
+int main()
+{
+        //Объявление трех целочисленных переменных
+        int a;
+        int b;
+        int c;
+
+        //Присвоение переменным значений
+        a = 5;
+        b = 7;
+        c = a + b;
+
+        //Вывод на экран
+        cout<<c<<endl;
+
+        //Ожидание нажатия на кнопку
+        system("pause");
+
+        return 0;
+}
+
+2) Условный оператор, решение квадратного уравнения
+
+#include <iostream>
+#include <cstdlib>
+#include <cmath>
+using namespace std;
+
+int main(int argc, char* argv[])
+{
+        //Объявление переменных с плавающей точкой
+        float a = 0;
+        float b = 0;
+        float c = 0;
+
+        cout<<"input a:";
+        
+        //Ввод числа с клавиатуры
+        cin>>a;
+
+        //Условный оператор, тело следующего блока выпоняется, 
+        //только если выпоняется условие
+        if(a != 0) //Операция "неравно"
+        {
+                cout<<"input b:";
+                cin>>b;
+        
+                cout<<"input c:";
+                cin>>c;        
+        
+                float d = pow(b,2) - 4 *a *c;
+                // pow(b,2) - функция возведения в степень
+        
+                if(d>=0) // второе условие
+                {
+                        float x1 = (-b + sqrt(d))/(2*a);
+                        float x2 = (-b - sqrt(d))/(2*a);
+        
+                        cout<<"x1="<<x1<<" x2="<<x2<<endl;
+                }
+                else // блок выпоняется если условие неверно
+                {
+                        cout<<"no roots"<<endl;
+                }
+        }
+
+
+        system("pause");
+
+        return 0;
+}
+
+3) Цикл for, поиск максимального элемента из введенных пользователем
+
+#include <iostream>
+#include <cstdlib>
+#include <cmath>
+using namespace std;
+
+int main(int argc, char* argv[])
+{
+        int max = 0;
+        int a;
+        //Тело повторяется пока выполняется условие посередине заголовка (i < 5)
+        for (int i = 0; i < 5; i++) 
+        {
+                cin>>a;
+        
+                if(i==0)
+                        max = a;
+
+                if(a>max)
+                        max = a;
+        }
+
+        cout<<"max="<<max<<endl;
+
+        system("pause"); 
+        
+        return 0;
+}
+
+
