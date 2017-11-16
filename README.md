@@ -3,12 +3,12 @@
 
 #### Информатика и программирование (первый семестр)
 
-- [Лабораторная работа 1 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab1)
-- [Лабораторная работа 2 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab2)
-- [Лабораторная работа 3 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab3)
-- [Лабораторная работа 4 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab4)
-- [Лабораторная работа 5 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab5)
-- [Лабораторная работа 6 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab6)
+- [Лаб. 1 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab1)
+- [Лаб. 2 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab2)
+- [Лаб. 3 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab3)
+- [Лаб. 4 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab4)
+- [Лаб. 5 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab5)
+- [Лаб. 6 + список задач](https://github.com/stankin/uits-labs/tree/master/first-semester/lab6)
 
 - [Материалы к семинарам](https://github.com/stankin/uits-labs/tree/master/first-semester/seminars)
 - [Вопросы к защите](https://github.com/stankin/uits-labs/tree/master/first-semester/questions.md)
