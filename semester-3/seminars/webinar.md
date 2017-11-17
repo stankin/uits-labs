@@ -1,3 +1,5 @@
+# Вебинары по теме курса 
+
 <table>
 	<thead>
 	<tr>
@@ -22,6 +24,5 @@
 				<img src="http://img.youtube.com/vi/qj9bMvGkfug/0.jpg" width="240" height="180" border="10" />
 			</a>
 		</td>
-		
 	</tr>
 </table>
