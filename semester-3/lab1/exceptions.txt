@@ -1,0 +1,283 @@
+#include<iostream>
+using namespace std;
+//: C01:MyError.cpp
+class MyError {
+public:
+    const string data;
+    
+    MyError(const string& msg) : data (msg) {}
+};
+void f() {
+    // "Запускаем" объект исключения:
+    throw MyError("something bad happened");
+}
+int main() {
+    
+	//Область в которой контролируется возникновение исключения
+    try{
+        
+        f();
+    }
+    catch(const MyError& e) // ловля исключения
+    {
+        cout<<e.data<<endl;
+    }
+
+} ///:~
+
+
+
+//exceptions1
+#include <iostream>
+using namespace std;
+class DivideByZeroException
+{
+};
+int divide(int a, int b)
+{
+    if (b == 0) throw DivideByZeroException();
+    return a / b;
+}
+int main(int argc, char** argv)
+{
+    try
+    {
+        cout << divide(5, 0) << endl;
+    } catch (DivideByZeroException)
+    {
+        cout << "error: cant divide by Zero";
+    }
+    return (EXIT_SUCCESS);
+}
+
+//Обработчик исключений базового класса перехватывает исключения производного класса
+//exceptions2
+#include <iostream>
+using namespace std;
+class MyException
+{
+};
+class DivideByZeroException : public MyException
+{
+};
+int divide(int a, int b)
+{
+    if (b == 0) throw DivideByZeroException();
+    return a / b;
+}
+int main(int argc, char** argv)
+{
+    try
+    {
+        cout << divide(5, 0) << endl;
+    } catch (MyException)
+    {
+        cout << "error";
+    }
+    return (EXIT_SUCCESS);
+}
+
+// exceptions3
+#include <iostream>
+#include <cmath>
+using namespace std;
+class DivideByZeroException
+{
+};
+float divide(float a, float b)
+{
+    if (b == 0) throw DivideByZeroException();
+    return a / b;
+}
+/*
+ * side^2*n/(4*tan(PI/n))
+ */
+float RegPolyArea(float side, int n)
+{
+    float numerator = side * side* n;
+    float denominator = 4 * tan(divide(M_PI, n));
+    return divide(numerator, denominator);
+}
+int main(int argc, char** argv)
+{
+    float a;
+    int b;
+    try
+    {
+        cin >> a;
+        cin >> b;
+        cout << RegPolyArea(a, b) << endl;
+    } catch (DivideByZeroException)
+    {
+        cout << "error: division by zero" << endl;
+    } 
+    return (EXIT_SUCCESS);
+}
+
+//exceptions4
+#include <stdlib.h>
+#include <string>
+#include <iostream>
+using namespace std;
+class MyException
+{
+    string cause;
+public:
+    MyException(string c)
+    {
+        cause = c;
+    }
+    string getCause()
+    {
+        return cause;
+    }
+};
+class BadInput : public MyException
+{
+public:
+    BadInput(string c) : MyException(c)
+    {
+    };
+};
+float square(float a, float b)
+{
+    if (a <= 0) throw MyException("a must be positive");
+    if (b <= 0) throw MyException("b must be positive");
+    //if (a < b) throw 10;
+    return a*b;
+}
+int main(int argc, char** argv)
+{
+    try
+    {
+        float a, b;
+        cin >> a;
+        if (!cin.good()) throw BadInput("is not float");
+        cin >> b;
+        if (!cin.good()) throw BadInput("is not float");
+        cout << "square=" << square(a, b) << endl;
+    } catch (BadInput ex)
+    {
+        cout << "input error:" << ex.getCause() << endl;
+    } catch (MyException ex)
+    {
+        cout << "error:" << ex.getCause() << endl;
+    } catch (...)
+    {
+        cout << "undefined error" << endl;
+    }
+    return (EXIT_SUCCESS);
+}
+
+
+
+//Исключения могут быть выброшены повторно при помощи ключевого слова throw без агрументов, это может быть необходимо для управления ресурсами.
+
+//ExceptionFiles2
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std;
+
+int getMaxFromFile(string filename) throw(ios_base::failure)
+{
+    ifstream file(filename.c_str());
+    file.exceptions(ios_base::badbit|ios_base::failbit);
+    int max;
+    int i;
+    try
+    {
+        file >> i;
+        max = i;
+        while (!file.eof())
+        {
+            file >> i;
+            if (i > max) max = i;
+        }
+    } catch (...)
+    {
+        file.close();
+        throw;
+    }
+    file.close();
+    return max;
+}
+/*
+ *
+ */
+int main(int argc, char** argv)
+{
+    try
+    {
+        cout << getMaxFromFile("in.txt") << endl;
+    } catch (ios::failure& ex)
+    {
+        cout <<"error while reading file"<< endl;
+    }
+    return 0;
+}
+
+// Хотя на самом деле в данном примере это не нужно так как деструктор автоматически закроет файл. (Подробнее об этом в теме про RAII)
+
+
+//: C01:StdExcept.cpp
+// Создание класса исключения, производного от std::runtime_error
+#include <stdexcept>
+#include <iostream>
+using namespace std;
+class MyError : public runtime_error {
+public:
+  MyError(const string& msg = "") : runtime_error(msg) {}
+};
+int main() {
+  try {
+    throw MyError("my message");
+  }
+  catch (MyError& x) {
+    cout << x.what() << endl;
+  }
+} ///:~
+
+
+
+//: C01:Cleanup.cpp
+// При запуске исключения уничтожаются только готовые объекты
+#include <iostream>
+using namespace std;
+class Trace {
+  static int counter;
+  int objid;
+public:
+  Trace() {
+    objid = counter++;
+    cout << "constructing Trace #" << objid << endl;
+    if(objid == 3) throw 3;
+  }
+  ~Trace() {
+    cout << "destructing Trace #" << objid << endl;
+  }
+};
+int Trace::counter = 0;
+int main() {
+  try {
+    Trace n1;
+    // Запуск исключения:
+    Trace array[5];
+    Trace n2;  // Сюда не попадаем
+  } catch(int i) {
+    cout << "caught " << i << endl;
+  }
+} ///:~
+
+// constructing Trace #0
+// constructing Trace #1
+// constructing Trace #2
+// constructing Trace #3
+// destructing Trace #2
+// destructing Trace #1
+// destructing Trace #0
+// caught 3
+
+
+
+
