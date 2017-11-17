@@ -1,11 +1,14 @@
 <img src="https://habrastorage.org/webt/-_/he/gm/-_hegmubirdrb0d42suciiuubmo.png" width="10%" height="10%" alt="">
 Здесь вы можете найти все необходимое и полезное по направлению "Прикладная информатика": 
 
+**1 семестр** - Информатика и программирование
+**3 семестр** - Современный С++
+
 <br><br>
 
 <table>
   <tr>
-    <th>Название курса</th>
+    <th>Семестр</th>
     <th>Лаб. 1</th>
     <th>Лаб. 2</th>
     <th>Лаб. 3</th>
@@ -16,7 +19,7 @@
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td>Информатика и программирование <br> (1 семестр)</td>
+    <td>1 семестр</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3">Ссылка</a></td>
@@ -27,7 +30,7 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md">Ссылка</a></td>
   </tr>
   <tr>
-    <td>Современный С++ <br> (3 семестр)</td>
+    <td>3 семестр</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3">Ссылка</a></td>
