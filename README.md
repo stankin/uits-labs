@@ -16,7 +16,7 @@
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td>Информатика и программирование (1 семестр)</td>
+    <td>Информатика и программирование <br> (1 семестр)</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3">Ссылка</a></td>
@@ -27,7 +27,7 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md">Ссылка</a></td>
   </tr>
   <tr>
-    <td>Современный С++ (3 семестр)</td>
+    <td>Современный С++ <br> (3 семестр)</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3">Ссылка</a></td>
