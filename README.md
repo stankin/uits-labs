@@ -1,7 +1,7 @@
 <img src="https://habrastorage.org/webt/-_/he/gm/-_hegmubirdrb0d42suciiuubmo.png" width="10%" height="10%" alt="">
 Здесь вы можете найти все необходимое и полезное по направлению "Прикладная информатика": 
 
-<br>
+<br><br>
 
 <table>
   <tr>
@@ -13,7 +13,6 @@
     <th>Лаб. 5</th>
     <th>Лаб. 6</th>
     <th>Материалы</th>
-    <th>Вебинары</th>
     <th>Вопросы</th>
   </tr>
   <tr>
@@ -25,7 +24,6 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab5">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab6">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars">Ссылка</a></td>
-    <td>-</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md">Ссылка</a></td>
   </tr>
   <tr>
@@ -37,7 +35,6 @@
     <td>-</td>
     <td>-</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/webinar.md">Ссылка</a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/questions.md">Ссылка</a></td>
   </tr>
 </table>
