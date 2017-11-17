@@ -22,24 +22,24 @@
   </tr>
   <tr>
     <td>Информатика и программирование</td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab4">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab5">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab6">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab4" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab5" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab6" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md" target="_blank">Ссылка</a></td>
   </tr>
   <tr>
     <td>Современный С++</td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab4">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab4" target="_blank">Ссылка</a></td>
     <td>-</td>
     <td>-</td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars">Ссылка</a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/questions.md">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars" target="_blank">Ссылка</a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/questions.md" target="_blank">Ссылка</a></td>
   </tr>
 </table>
