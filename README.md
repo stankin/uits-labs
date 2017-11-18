@@ -18,13 +18,13 @@
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1"><sub>Ссылка</sub></a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1"><sub align="center">Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab4"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab5"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab6"><sub>Ссылка</sub></a></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars"><sub>Ссылка</sub></a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars"><sub align="center">Ссылка</sub></a></td>
     <td>-</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
