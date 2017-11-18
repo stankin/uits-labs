@@ -21,7 +21,7 @@
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td><sup>Информатика и программирование</sup></td>
+    <td>Информатика и программирование</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3"><sub>Ссылка</sub></a></td>
