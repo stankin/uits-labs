@@ -3,14 +3,10 @@
 
 ### Учебный курс:
 
-**1 семестр** - Информатика и программирование <br>
-**3 семестр** - Современный С++ <br>
-
-### Список заданий:
+#### **1 семестр** - Информатика и программирование
 
 <table>
   <tr>
-    <th>Семестр</th>
     <th>Лаб. 1</th>
     <th>Лаб. 2</th>
     <th>Лаб. 3</th>
@@ -18,10 +14,10 @@
     <th>Лаб. 5</th>
     <th>Лаб. 6</th>
     <th>Материалы</th>
+    <th>Вебинары</th>
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td>1 семестр</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3"><sub>Ссылка</sub></a></td>
@@ -29,10 +25,27 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab5"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab6"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/seminars"><sub>Ссылка</sub></a></td>
+    <td>-</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
+</table>
+
+
+#### **3 семестр** - Современный С++
+
+<table>
   <tr>
-    <td>3 семестр</td>
+    <th>Лаб. 1</th>
+    <th>Лаб. 2</th>
+    <th>Лаб. 3</th>
+    <th>Лаб. 4</th>
+    <th>Лаб. 5</th>
+    <th>Лаб. 6</th>
+    <th>Материалы</th>
+    <th>Вебинары</th>
+    <th>Вопросы</th>
+  </tr>
+  <tr>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3"><sub>Ссылка</sub></a></td>
@@ -40,6 +53,7 @@
     <td><sub>-</sub></td>
     <td><sub>-</sub></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars"><sub>Ссылка</sub></a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars/webinar.md"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
 </table>
