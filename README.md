@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <th>Название курса</th>
+    <th>Семестр</th>
     <th>Лаб. 1</th>
     <th>Лаб. 2</th>
     <th>Лаб. 3</th>
@@ -21,7 +21,7 @@
     <th>Вопросы</th>
   </tr>
   <tr>
-    <td>Информатика и программирование</td>
+    <td>1 семестр</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab1"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/lab3"><sub>Ссылка</sub></a></td>
@@ -32,7 +32,7 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-1/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
   <tr>
-    <td><sub>Современный С++</td>
+    <td>3 семестр</td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab1"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab2"><sub>Ссылка</sub></a></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/lab3"><sub>Ссылка</sub></a></td>
