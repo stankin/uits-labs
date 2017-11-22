@@ -1,4 +1,4 @@
-# 1 семестр - Информатика и программирование
+# 1 семестр - Информатика и основы программирования
 
 - [Лабораторная работа 1](https://github.com/stankin/uits-labs/tree/master/semester-1/lab1)
 - [Лабораторная работа 2](https://github.com/stankin/uits-labs/tree/master/semester-1/lab2)
