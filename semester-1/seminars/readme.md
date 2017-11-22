@@ -134,3 +134,30 @@
  */
 ```
 
+## Семинар 4
+
+[Задача 1. Решение задачи](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/4/mdpointers.cpp) 
+
+```
+// Написать многомерный массив
+```
+
+## Семинар 5
+
+[Задача 1. Решение задачи](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/5/format.cpp) 
+
+```
+// Форматирование вывода в консоль
+```
+
+[Задача 2. Решение задачи](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/5/maxoverloading.cpp) 
+
+```
+// Перегрузка функций
+```
+
+[Задача 3. Решение задачи](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/5/mdimtofunction2.cpp) 
+
+```
+// Суммирование всех элементов многомерного массива
+```
