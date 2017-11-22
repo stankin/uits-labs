@@ -125,7 +125,7 @@
  */
 ```
 
-[Задача 8. Решение задачи через typedef](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/3/typedef.cpp)
+[Задача 8. Решение задачи через typedef](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/3/typedef.cpp) <br>
 [Задача 8. Решение задачи через define](https://github.com/stankin/uits-labs/blob/master/semester-1/seminars/3/typedefine.cpp)
 
 ```
