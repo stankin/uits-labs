@@ -80,7 +80,7 @@
     <td><sub>-</sub></td>
     <td><sub>-</sub></td>
     <td><sub>-</sub></td>
-    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars"><sub>Ссылка</sub></a></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-4"><sub>Ссылка</sub></a></td>
     <td><sub>-</sub></td>
     <td><sub>-</sub></td>
   </tr>
