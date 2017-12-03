@@ -57,3 +57,31 @@
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
 </table>
+
+
+#### **4 семестр** - Вычислительные технологии прикладной информатики
+
+<table>
+  <tr>
+    <th>Лаб. 1</th>
+    <th>Лаб. 2</th>
+    <th>Лаб. 3</th>
+    <th>Лаб. 4</th>
+    <th>Лаб. 5</th>
+    <th>Лаб. 6</th>
+    <th>Лекции и семинары</th>
+    <th>Вебинары</th>
+    <th>Вопросы</th>
+  </tr>
+  <tr>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-3/seminars"><sub>Ссылка</sub></a></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+  </tr>
+</table>
