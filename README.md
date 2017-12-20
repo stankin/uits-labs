@@ -109,7 +109,7 @@
     <td><sub>-</sub></td>
     <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-4"><sub>Ссылка</sub></a></td>
     <td><sub>-</sub></td>
-    <td><sub>-</sub></td>
+    <td><a href="https://github.com/stankin/uits-labs/blob/master/semester-6/questions.md"><sub>Ссылка</sub></a></td>
   </tr>
 </table>
 
