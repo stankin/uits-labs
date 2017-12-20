@@ -173,12 +173,12 @@
 	<tr>
 	<td>
 	<a href="https://www.youtube.com/watch?v=b1unoHhaamk&index=16&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/b1unoHhaamk/0.jpg" width="100%" height="200" border="0" />
+		<img src="http://img.youtube.com/vi/b1unoHhaamk/0.jpg" width="264" height="200" border="0" />
 	</a>
 	</td>
 	<td>
 	<a href="https://www.youtube.com/watch?v=2VmMh6Xaqts&index=17&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/OEXBkpGkOEI/0.jpg" width="100%" height="200" border="0" />
+		<img src="http://img.youtube.com/vi/OEXBkpGkOEI/0.jpg" width="264" height="200" border="0" />
 	</a>
 	</td>
 </table>
