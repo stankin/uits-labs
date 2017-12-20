@@ -1,4 +1,4 @@
-<a href="#n1">Лаб. 1. Stream API</a>
+<a href="#n1">Лаб. 1. Stream API</a><br>
 <a href="#n2">Лаб. 2. Многопоточность</a>
 
 <p id="n1"><b>Лаб 1. Stream API</b></p>
