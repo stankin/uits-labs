@@ -85,3 +85,32 @@
     <td><sub>-</sub></td>
   </tr>
 </table>
+
+#### **6 семестр** - Информационные системы и технологии
+
+<table>
+  <tr>
+    <th>Лаб. 1</th>
+    <th>Лаб. 2</th>
+    <th>Лаб. 3</th>
+    <th>Лаб. 4</th>
+    <th>Лаб. 5</th>
+    <th>Лаб. 6</th>
+    <th>Лекции и семинары</th>
+    <th>Вебинары</th>
+    <th>Вопросы</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/stankin/uits-labs/blob/master/semester-6/README.md#n1"><sub>Ссылка</sub></a></td>
+    <td><a href="https://github.com/stankin/uits-labs/blob/master/semester-6/README.md#n2"><sub>Ссылка</sub></a></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+    <td><a href="https://github.com/stankin/uits-labs/tree/master/semester-4"><sub>Ссылка</sub></a></td>
+    <td><sub>-</sub></td>
+    <td><sub>-</sub></td>
+  </tr>
+</table>
+
+
