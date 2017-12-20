@@ -11,7 +11,7 @@
 	<tr>
 		<td>
 			<a href="https://www.youtube.com/watch?v=Jo89mqKRR5s&t=1260s&index=1&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-				<img src="http://img.youtube.com/vi/qI2UNyjgjls/0.jpg" width="240" height="180" border="10" />
+				<img src="http://img.youtube.com/vi/Jo89mqKRR5s/0.jpg" width="240" height="180" border="10" />
 			</a>
 		</td>
 		<td>
