@@ -53,3 +53,84 @@
 	</td>
 	</tr>
 </table>
+
+<table>
+<thead>
+<tr>
+	<td><b>Java. Урок 7. Параллельная редукция и Fork join</b></td>
+	<td><b>Java. Урок 8. Атомарные операции. Конкретные коллекции</b></td>
+	<td><b>Java. Урок 9. Потоки ввода-вывода в Java, сжатие, шифрование</b></td>	
+</tr>
+</thead>
+	<tr>
+	<td>
+	<a href="https://www.youtube.com/watch?v=if2Uqm-zenA&index=7&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/if2Uqm-zenA/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=lz7sLbZAMs8&index=8&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/lz7sLbZAMs8/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=L08WMqOSNqI&index=9&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/L08WMqOSNqI/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	</tr>
+</table>
+
+<table>
+<thead>
+<tr>
+	<td><b>Java. Урок 4. Коллекции Java и Stream API</b></td>
+	<td><b>Java. Урок 5. Многопоточность. Часть 1</b></td>
+	<td><b>Java. Урок 6. Многопоточность. Часть 2</b></td>	
+</tr>
+</thead>
+	<tr>
+	<td>
+	<a href="https://www.youtube.com/watch?v=w0WYje4HIs8&index=4&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/w0WYje4HIs8/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=wxFokJiOCu0&index=5&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/wxFokJiOCu0/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=Byu11ALeI9A&index=6&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/Byu11ALeI9A/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	</tr>
+</table>
+
+<table>
+<thead>
+<tr>
+	<td><b>Java. Урок 10. Сериализация</b></td>
+	<td><b>Java. Урок 11. Сокеты Java</b></td>
+	<td><b>Java. Урок 12. Неблокирующий ввод вывод</b></td>	
+</tr>
+</thead>
+	<tr>
+	<td>
+	<a href="https://www.youtube.com/watch?v=rid1XgKpPZU&index=10&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/rid1XgKpPZU/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=K5xySU6wFQc&index=11&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/K5xySU6wFQc/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	<td>
+	<a href="https://www.youtube.com/watch?v=MmglDhfRlsw&index=12&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+		<img src="http://img.youtube.com/vi/MmglDhfRlsw/0.jpg" width="100%" height="200" border="0" />
+	</a>
+	</td>
+	</tr>
+</table>
