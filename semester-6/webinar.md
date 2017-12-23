@@ -58,7 +58,7 @@
 <thead>
 <tr>
 	<td><b>Java. Урок 7. Параллельная редукция и Fork join</b></td>
-	<td><b>Java. Урок 8. Атомарные операции. Конкретные коллекции</b></td>
+	<td><b>Java. Урок 8. Атомарные операции. Конкурентные коллекции</b></td>
 	<td><b>Java. Урок 9. Потоки ввода-вывода в Java, сжатие, шифрование</b></td>	
 </tr>
 </thead>
@@ -76,33 +76,6 @@
 	<td>
 	<a href="https://www.youtube.com/watch?v=L08WMqOSNqI&index=9&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
 		<img src="http://img.youtube.com/vi/L08WMqOSNqI/0.jpg" width="100%" height="200" border="0" />
-	</a>
-	</td>
-	</tr>
-</table>
-
-<table>
-<thead>
-<tr>
-	<td><b>Java. Урок 4. Коллекции Java и Stream API</b></td>
-	<td><b>Java. Урок 5. Многопоточность. Часть 1</b></td>
-	<td><b>Java. Урок 6. Многопоточность. Часть 2</b></td>	
-</tr>
-</thead>
-	<tr>
-	<td>
-	<a href="https://www.youtube.com/watch?v=w0WYje4HIs8&index=4&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/w0WYje4HIs8/0.jpg" width="100%" height="200" border="0" />
-	</a>
-	</td>
-	<td>
-	<a href="https://www.youtube.com/watch?v=wxFokJiOCu0&index=5&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/wxFokJiOCu0/0.jpg" width="100%" height="200" border="0" />
-	</a>
-	</td>
-	<td>
-	<a href="https://www.youtube.com/watch?v=Byu11ALeI9A&index=6&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/Byu11ALeI9A/0.jpg" width="100%" height="200" border="0" />
 	</a>
 	</td>
 	</tr>
@@ -139,8 +112,8 @@
 <thead>
 <tr>
 	<td><b>Java. Урок 13. Неблокирующая работа с файлами</b></td>
-	<td><b>Java. Урок 15. Netty</b></td>
 	<td><b>Java. Урок 14. Maven</b></td>	
+	<td><b>Java. Урок 15. Netty</b></td>
 </tr>
 </thead>
 	<tr>
@@ -150,15 +123,15 @@
 	</a>
 	</td>
 	<td>
-	<a href="https://www.youtube.com/watch?v=OEXBkpGkOEI&index=14&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
-		<img src="http://img.youtube.com/vi/OEXBkpGkOEI/0.jpg" width="100%" height="200" border="0" />
-	</a>
-	</td>
-	<td>
 	<a href="https://www.youtube.com/watch?v=Q2_9WPz3WEo&index=15&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
 		<img src="http://img.youtube.com/vi/Q2_9WPz3WEo/0.jpg" width="100%" height="200" border="0" />
 	</a>
 	</td>
+    <td>
+    <a href="https://www.youtube.com/watch?v=OEXBkpGkOEI&index=14&list=PLQwXjjTVqyUHMapmff5_-_oV3Vez_lRAf" target="_blank">
+        <img src="http://img.youtube.com/vi/OEXBkpGkOEI/0.jpg" width="100%" height="200" border="0" />
+    </a>
+    </td>
 	</tr>
 </table>
 
